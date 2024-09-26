@@ -11,10 +11,28 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 126,
-    "timeWeek": 141,
+    "timeDay": 146,
+    "timeWeek": 144,
     "timeMonth": 178,
     "timeYear": 178,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "SLWEB",
+    "url": "https://slweb.slaplic.com.br/",
+    "icon": "https://icons.duckduckgo.com/ip3/slweb.slaplic.com.br.ico",
+    "slug": "slweb",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 345,
+    "timeDay": 345,
+    "timeWeek": 345,
+    "timeMonth": 345,
+    "timeYear": 345,
     "dailyMinutesDown": {}
   }
 ]
