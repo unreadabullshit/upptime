@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Voit.dev
     url: https://voit.dev/
+  - name: SLWEB
+    url: https://slweb.slaplic.com.br/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
