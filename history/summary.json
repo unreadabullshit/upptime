@@ -4,7 +4,7 @@
     "url": "https://voit.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/voit.dev.ico",
     "slug": "voit-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 161,
     "timeMonth": 171,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "SLWEB",
