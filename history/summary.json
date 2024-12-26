@@ -1,6 +1,6 @@
 [
   {
-    "name": "Voit.dev",
+    "name": "voit.dev",
     "url": "https://voit.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/voit.dev.ico",
     "slug": "voit-dev",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 161,
-    "timeDay": 106,
-    "timeWeek": 179,
-    "timeMonth": 146,
-    "timeYear": 161,
+    "time": 160,
+    "timeDay": 105,
+    "timeWeek": 170,
+    "timeMonth": 145,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2024-10-22": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.49%",
-    "time": 696,
-    "timeDay": 687,
-    "timeWeek": 528,
-    "timeMonth": 1130,
-    "timeYear": 696,
+    "time": 694,
+    "timeDay": 582,
+    "timeWeek": 522,
+    "timeMonth": 1111,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2024-12-11": 24,
       "2024-11-29": 613,
