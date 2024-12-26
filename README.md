@@ -1,6 +1,6 @@
 # [📈 Live Status](https://unreadabullshit.github.io/uptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Voitila Araújo](https://voit.dev), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Hector Araújo](https://voit.dev), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/unreadabullshit/uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/unreadabullshit/uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/unreadabullshit/uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/unreadabullshit/uptime/actions?query=workflow%3A%22Response+Time+CI%22)
