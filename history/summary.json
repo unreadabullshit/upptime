@@ -4,7 +4,7 @@
     "url": "https://voit.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/voit.dev.ico",
     "slug": "voit-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "97.10%",
     "uptimeWeek": "99.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 162,
     "timeYear": 158,
     "dailyMinutesDown": {
+      "2025-08-28": 0,
       "2025-08-27": 42,
       "2025-08-26": 59,
       "2025-07-20": 25,
